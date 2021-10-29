@@ -1,5 +1,5 @@
-### Teikumo DESU!!
-- Salut.
+# Teikumo DESU!!
+### Salut.
 - Teikumoは:
 - proletariat/communist/hax/anime lover/IJN lover. 
 - Уг нь би Монголд төрсөн XD
