@@ -28,7 +28,7 @@ end start
 ### Namai??
 - 渟Teiは:[(of water)stagnate]【埤蒼】渟，水止也。
 - 雲Kumoは:[cloud]【說文】山川气也。从雨云，象雲回轉形。【廣韻】河圖曰：雲者，天地之本。【元命包】隂陽聚爲雲。【易·乾卦】雲行雨施。
-- 渟雲Teikumoは:心如止水，行随风动。The heart is like still water, and the act moves with the wind.
+- 渟雲Teikumoは:心如止水，行随风动。The heart is like still water, and the action moves with the wind.
 <img src="https://github.com/M3351AN/db/raw/main/DSC05356.JPG" width = "800" height = "600" alt="SHIGURE!!" align=center />
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=M3351AN&theme=tokyonight&show_icons=true)](https://github.com/M3351AN)
