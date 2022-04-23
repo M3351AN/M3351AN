@@ -26,7 +26,7 @@ end start
 - Би өөрийгөө хэн бэ гэдэгт эргэлзэх хэрэгтэй гэж бодож байна.
 - Quit HVH now.
 
-<img src="https://github.com/M3351AN/db/raw/main/AppleTeacherSwiftPlaygrounds_black.png" width = "800" height = "600" alt="SHIGURE!!" align=center />
+<img src="https://github.com/M3351AN/M3351AN/raw/main/AppleTeacherSwiftPlaygrounds_black.png" width = "800" height = "600" alt="Apple Teacher" align=center />
 
 ### Namai??
 - 渟Teiは:[(of water)stagnate]【埤蒼】渟，水止也。
