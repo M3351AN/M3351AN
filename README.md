@@ -20,7 +20,7 @@ end start
 # Teikumo DESU!!
 ### Salut.
 - Teikumoは:
-- proletariat/communist/hax/anime lover/IJN lover. 
+- proletariat/anarchor/hax/anime lover/IJN lover. 
 - Уг нь би Монголд төрсөн XD
 - 在中国内地学习中
 - Би өөрийгөө хэн бэ гэдэгт эргэлзэх хэрэгтэй гэж бодож байна.
