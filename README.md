@@ -36,6 +36,7 @@ end start
 <div align = center>
 <img src="https://github.com/M3351AN/db/raw/main/DSC05356.JPG" alt="SHIGURE!!" height="255" width="350"align=left />
 <center>Ich liebe Shigure, auch wenn es eine Blaupause ist</center>
+<div align = center>
 ### Namai??
 - 渟Teiは:[(of water)stagnate]
 
