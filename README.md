@@ -33,12 +33,11 @@ end start
 <img src="https://user-images.githubusercontent.com/65479796/210480030-afa40cef-8b06-4841-8348-a9758c81b9c6.jpg" height="255" width="350" alt="My Student" align=left />
 <img src="https://user-images.githubusercontent.com/65479796/210486401-6d4aca01-6d14-4bc7-831b-1a60414557d1.jpeg" height="255" width="350" alt="My Student" align=left />
 <center>My Student</center>
-
-
-<img src="https://github.com/M3351AN/db/raw/main/DSC05356.JPG" alt="SHIGURE!!" align=centre />
-<center>Ich liebe Shigure, auch wenn es eine Blaupause ist</center>
+<div align = centre />
 
 ### Namai??
+<img src="https://github.com/M3351AN/db/raw/main/DSC05356.JPG" alt="SHIGURE!!" height="255" width="350"align=left />
+<center>Ich liebe Shigure, auch wenn es eine Blaupause ist</center>
 - 渟Teiは:[(of water)stagnate]
 
 【埤蒼】渟，水止也。
@@ -46,9 +45,6 @@ end start
 
 【說文】山川气也。从雨云，象雲回轉形。【廣韻】河圖曰：雲者，天地之本。【元命包】隂陽聚爲雲。【易·乾卦】雲行雨施。
 - 渟雲Teikumoは:心如止水，行随风动。The heart is like still water, and the action moves with the wind.
-<img src="https://github.com/M3351AN/db/raw/main/DSC05356.JPG" alt="SHIGURE!!" align=left />
-
-
 ### Money plz
 ```BTC !
 BTC
