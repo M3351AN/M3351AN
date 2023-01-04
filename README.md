@@ -34,10 +34,9 @@ end start
 <img src="https://user-images.githubusercontent.com/65479796/210486401-6d4aca01-6d14-4bc7-831b-1a60414557d1.jpeg" height="255" width="350" alt="My Student" align=left />
 <center>My Student</center>
 <div align = centre />
-
-### Namai??
 <img src="https://github.com/M3351AN/db/raw/main/DSC05356.JPG" alt="SHIGURE!!" height="255" width="350"align=left />
 <center>Ich liebe Shigure, auch wenn es eine Blaupause ist</center>
+### Namai??
 - 渟Teiは:[(of water)stagnate]
 
 【埤蒼】渟，水止也。
