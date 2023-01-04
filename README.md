@@ -30,7 +30,7 @@ end start
 ### せんせい~
 <img src="https://github.com/M3351AN/M3351AN/raw/main/AppleTeacherSwiftPlaygrounds_black.png" alt="Apple Teacher" align=center />
 <center>ich ist Apple Teacher</center>
-<img src="https://user-images.githubusercontent.com/65479796/210480030-afa40cef-8b06-4841-8348-a9758c81b9c6.jpg" alt="My Student" align=MY STUDENT />
+<img src="https://user-images.githubusercontent.com/65479796/210480030-afa40cef-8b06-4841-8348-a9758c81b9c6.jpg" height="255" width="350" alt="My Student" align=MY STUDENT />
 <center>My Student</center>
 
 ### Namai??
