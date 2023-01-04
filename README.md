@@ -29,15 +29,16 @@ end start
 - ia net ruski!
 ### せんせい~
 <img src="https://github.com/M3351AN/M3351AN/raw/main/AppleTeacherSwiftPlaygrounds_black.png" alt="Apple Teacher" align=center />
+<center>ich ist Apple Teacher</center>
 <img src="https://user-images.githubusercontent.com/65479796/210480030-afa40cef-8b06-4841-8348-a9758c81b9c6.jpg" alt="My Student" align=MY STUDENT />
-
-<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">My Student</center>
+<center>My Student</center>
 
 ### Namai??
 - 渟Teiは:[(of water)stagnate]【埤蒼】渟，水止也。
 - 雲Kumoは:[cloud]【說文】山川气也。从雨云，象雲回轉形。【廣韻】河圖曰：雲者，天地之本。【元命包】隂陽聚爲雲。【易·乾卦】雲行雨施。
 - 渟雲Teikumoは:心如止水，行随风动。The heart is like still water, and the action moves with the wind.
 <img src="https://github.com/M3351AN/db/raw/main/DSC05356.JPG" alt="SHIGURE!!" align=center />
+<center>Ich liebe Shigure, auch wenn es eine Blaupause ist</center>
 
 ### Money plz
 ```BTC !
