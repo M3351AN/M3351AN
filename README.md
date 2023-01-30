@@ -25,7 +25,7 @@ end start
 - 在中国内地学习中
 - Би өөрийгөө хэн бэ гэдэгт эргэлзэх хэрэгтэй гэж бодож байна.
 - Quit HVH now.
-- 喜欢副会长，但是现在副会长很生气的样子，先冷静一下罢
+- 已经不喜欢副会长了:(
 - ia net ruski!
 ### せんせい~
 <img src="https://github.com/M3351AN/M3351AN/raw/main/AppleTeacherSwiftPlaygrounds_black.png" alt="Apple Teacher" align=center />
