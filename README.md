@@ -66,5 +66,4 @@ BTC
 for (int k=2011378; k>0; k>>=2)
     System.out.print((char) (110 + Math.pow(2,2*(((k^1)-1)>>21 + 1) + (k&3)) - ((k&8192)/8192 + 7.9*(-(k^1964)>>21) - .1*(-((k&35)^35)>>21) + .3*(-((k&120)^120)>>21) + (-((k|7)^7)>>21) + 9.1)*10));
 ```
-<a href="https://info.flagcounter.com/LT1t"><img src="https://s11.flagcounter.com/count2/LT1t/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
+<a href="https://info.flagcounter.com/LT1t"><img src="https://s11.flagcounter.com/map/LT1t/size_t/txt_7C1DCF/border_0F0F0F/pageviews_1/viewers_Luv/flags_0/" alt="Flag Counter" border="0"></a>
