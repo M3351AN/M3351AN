@@ -59,7 +59,7 @@ Ich liebe Shigure, auch wenn es eine Blaupause ist
 
 - 或者，更直接的方式
 
-<img src="https://github.com/M3351AN/M3351AN.github.io/raw/main/Alipay.jpg" alt="lucky" height="300" width="200" align=center />
+<img src="https://github.com/M3351AN/M3351AN.github.io/raw/main/Alipay.jpg" alt="alipay" height="300" width="200" align=center />
 
 ```BTC !
 BTC
