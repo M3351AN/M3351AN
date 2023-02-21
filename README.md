@@ -30,7 +30,7 @@ end start
 - 虽然可以但是请温柔一点因为会尿床啊啊啊啊啊啊
 - أخذ 192 طنًا تراكميًا من ديكستروميتورفان
 - J'ai passé ma 16 Saint-Valentin seul
-- 好想谈恋爱
+- 好想谈恋爱、但是也许是我不够优秀
 
 ### せんせい~
 <img src="https://github.com/M3351AN/M3351AN/raw/main/AppleTeacherSwiftPlaygrounds_black.png" alt="Apple Teacher" align=center />
