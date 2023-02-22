@@ -31,6 +31,7 @@ end start
 - أخذ 192 طنًا تراكميًا من ديكستروميتورفان
 - J'ai passé ma 16 Saint-Valentin seul
 - 好想谈恋爱、但是也许是我不够优秀
+- party.teiku.moe
 
 ### せんせい~
 <img src="https://github.com/M3351AN/M3351AN/raw/main/AppleTeacherSwiftPlaygrounds_black.png" alt="Apple Teacher" align=center />
