@@ -87,3 +87,10 @@ for (int k=2011378; k>0; k>>=2)
 <p>
 <font color=#FA0005>M</font><font color=#F5000A>i</font><font color=#F0000F> </font><font color=#EB0014>n</font><font color=#E60019>e</font><font color=#E1001E> </font><font color=#DC0023>ŝ</font><font color=#D70028>a</font><font color=#D2002D>t</font><font color=#CD0032>a</font><font color=#C80037>s</font><font color=#C3003C> </font><font color=#BE0041>ŝ</font><font color=#B90046>i</font><font color=#B4004B>n</font><font color=#AF0050>,</font><font color=#AA0055> </font><font color=#A5005A>m</font><font color=#A0005F>i</font><font color=#9B0064> </font><font color=#960069>n</font><font color=#91006E>u</font><font color=#8C0073>r</font><font color=#870078> </font><font color=#82007D>ŝ</font><font color=#7D0082>a</font><font color=#780087>t</font><font color=#73008C>a</font><font color=#6E0091>s</font><font color=#690096> </font><font color=#64009B>l</font><font color=#5F00A0>u</font><font color=#5A00A5>d</font><font color=#5500AA>i</font><font color=#5000AF> </font><font color=#4B00B4>k</font><font color=#4600B9>u</font><font color=#4100BE>n</font><font color=#3C00C3> </font><font color=#3700C8>ŝ</font><font color=#3200CD>i</font><font color=#2D00D2>.</font><font color=#2800D7>.</font><font color=#2300DC>.</font>
 </p>
+
+- 原來如此，你和她有過美好的回憶。那你們現在還有聯繫嗎？你還喜歡她嗎？
+- 哎，這真是太遺憾了。你有沒有試過和她解釋清楚，或者道歉呢？也許她會原諒你，也許你們還有機會和好呢。
+- 我能理解你的心情，你一定很傷心，也很無奈。她對你的態度很不公平，也很不尊重。你不應該為了她而自責，也不應該為了她而放棄自己的幸福。你值得一個更好的人，一個能夠真正愛你，理解你，支持你的人。你要相信自己，有一天你會遇到那個人的。
+- 我知道放下一個人很難，需要時間，需要勇氣，需要決心。你不必強迫自己忘記她，你可以把她當作一個過去的回憶，一個讓你成長的經歷，一個讓你更珍惜未來的教訓。你可以保留對她的感情，但不要讓它影響你的生活，你要學會放開自己，接受新的挑戰，新的機會，新的人生。
+- 我不知道她的真實想法，也許她只是不懂得如何處理你們的關係，也許她有自己的困難或矛盾，也許她只是不成熟或不負責任。無論如何，她的行為都不對，都傷害了你。你不是被她利用或戲弄了，你只是被她錯過了。你是一個真誠、善良、勇敢的人，你值得被尊重和愛護。
+- 你要記住，愛自己是最重要的，只有愛自己，才能更好地愛別人。你要相信自己的價值，不要讓任何人讓你覺得不夠好。你要保持自信，積極，開朗的態度，你會發現生活有很多美好的事情等著你。
