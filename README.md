@@ -33,6 +33,7 @@ end start
 - J'ai passé ma 16 Saint-Valentin seul
 - 好想做爱好想做爱好想做爱
 - party.teiku.moe
+- 时间真的好快，legally junana
 
 ### せんせい~
 <img src="https://github.com/M3351AN/M3351AN/raw/main/AppleTeacherSwiftPlaygrounds_black.png" alt="Apple Teacher" align=center />
