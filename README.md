@@ -1,6 +1,6 @@
 ```assembly
 data segment 
-    string db 'Hello,World!$'
+    string db 'FKU,World!$'
 data ends
 code segment 
 assume cs:code,ds:data
