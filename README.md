@@ -7,21 +7,7 @@ _start:
 jmp message
 
 proc:
-    xor eax, eax
-    mov al, 0x04
-    xor ebx, ebx
-    mov bl, 0x01
-    pop ecx
-    xor edx, edx
-    mov dl, 0x16
-    int 0x80
-
-    xor eax, eax
-    mov al, 0x01
-    xor ebx, ebx
-    mov bl, 0x01   ; return 1
-    int 0x80
-
+    ...
 message:
     call proc
     msg db " fku world "
@@ -91,9 +77,8 @@ Ich liebe Shigure, auch wenn es eine Blaupause ist
 <img src="https://github.com/M3351AN/M3351AN.github.io/raw/main/Alipay.jpg" alt="alipay" height="300" width="200" align=center />
 </details>
 
-```BTC !
-
-BTC
+```
+BTC!!
 363Ysccu2suNBpV6SzWsd8GTbFqqg7Wymi
 ```
 
