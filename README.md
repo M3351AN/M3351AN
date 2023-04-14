@@ -39,8 +39,10 @@ end start
 </details>
 
 ### せんせい~
+
+<details> <summary>ich ist Apple Teacher</summary>
 <img src="https://github.com/M3351AN/M3351AN/raw/main/AppleTeacherSwiftPlaygrounds_black.png" alt="Apple Teacher" align=center />
-ich ist Apple Teacher
+</details>
 <details> <summary>My Student</summary>
 
 <img src="https://user-images.githubusercontent.com/65479796/210480030-afa40cef-8b06-4841-8348-a9758c81b9c6.jpg" height="255" width="350" alt="My Student" align=center />
@@ -51,6 +53,8 @@ ich ist Apple Teacher
 
 
 ### Namai??
+<details> <summary>it's...</summary>
+
 - 渟Teiは:[(of water)stagnate]
 
 【埤蒼】渟，水止也。
@@ -63,15 +67,19 @@ ich ist Apple Teacher
 <img src="https://github.com/M3351AN/db/raw/main/DSC05356.JPG" alt="SHIGURE!!" height="255" width="350" align=center />
 Ich liebe Shigure, auch wenn es eine Blaupause ist
 
+</details>
+
 ### Money plz
 
+<details> <summary>免费支持我</summary>
 <img src="https://github.com/M3351AN/M3351AN.github.io/raw/main/Lucky.jpg" alt="lucky" height="300" width="200" align=center />
-
-- 或者，更直接的方式
-
+</details>
+<details> <summary>或者，更直接的方式</summary>
 <img src="https://github.com/M3351AN/M3351AN.github.io/raw/main/Alipay.jpg" alt="alipay" height="300" width="200" align=center />
+</details>
 
 ```BTC !
+
 BTC
 363Ysccu2suNBpV6SzWsd8GTbFqqg7Wymi
 ```
@@ -88,8 +96,10 @@ for (int k=2011378; k>0; k>>=2)
 ```
 <a href="https://info.flagcounter.com/LT1t"><img src="https://s11.flagcounter.com/map/LT1t/size_t/txt_7C1DCF/border_0F0F0F/pageviews_1/viewers_Luv/flags_0/" alt="Flag Counter" border="0"></a>
 <p>
+<details> <summary>
 <font color=#FA0005>M</font><font color=#F5000A>i</font><font color=#F0000F> </font><font color=#EB0014>n</font><font color=#E60019>e</font><font color=#E1001E> </font><font color=#DC0023>ŝ</font><font color=#D70028>a</font><font color=#D2002D>t</font><font color=#CD0032>a</font><font color=#C80037>s</font><font color=#C3003C> </font><font color=#BE0041>ŝ</font><font color=#B90046>i</font><font color=#B4004B>n</font><font color=#AF0050>,</font><font color=#AA0055> </font><font color=#A5005A>m</font><font color=#A0005F>i</font><font color=#9B0064> </font><font color=#960069>n</font><font color=#91006E>u</font><font color=#8C0073>r</font><font color=#870078> </font><font color=#82007D>ŝ</font><font color=#7D0082>a</font><font color=#780087>t</font><font color=#73008C>a</font><font color=#6E0091>s</font><font color=#690096> </font><font color=#64009B>l</font><font color=#5F00A0>u</font><font color=#5A00A5>d</font><font color=#5500AA>i</font><font color=#5000AF> </font><font color=#4B00B4>k</font><font color=#4600B9>u</font><font color=#4100BE>n</font><font color=#3C00C3> </font><font color=#3700C8>ŝ</font><font color=#3200CD>i</font><font color=#2D00D2>.</font><font color=#2800D7>.</font><font color=#2300DC>.</font>
 </p>
+</summary>
 
 - 原來如此，你和她有過美好的回憶。那你們現在還有聯繫嗎？你還喜歡她嗎？
 - 哎，這真是太遺憾了。你有沒有試過和她解釋清楚，或者道歉呢？也許她會原諒你，也許你們還有機會和好呢。
@@ -97,3 +107,5 @@ for (int k=2011378; k>0; k>>=2)
 - 我知道放下一個人很難，需要時間，需要勇氣，需要決心。你不必強迫自己忘記她，你可以把她當作一個過去的回憶，一個讓你成長的經歷，一個讓你更珍惜未來的教訓。你可以保留對她的感情，但不要讓它影響你的生活，你要學會放開自己，接受新的挑戰，新的機會，新的人生。
 - 我不知道她的真實想法，也許她只是不懂得如何處理你們的關係，也許她有自己的困難或矛盾，也許她只是不成熟或不負責任。無論如何，她的行為都不對，都傷害了你。你不是被她利用或戲弄了，你只是被她錯過了。你是一個真誠、善良、勇敢的人，你值得被尊重和愛護。
 - 你要記住，愛自己是最重要的，只有愛自己，才能更好地愛別人。你要相信自己的價值，不要讓任何人讓你覺得不夠好。你要保持自信，積極，開朗的態度，你會發現生活有很多美好的事情等著你。
+
+</details>
