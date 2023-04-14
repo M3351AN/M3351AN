@@ -1,4 +1,4 @@
-```shellcode
+```assembly
 global _start
 
 section .text
