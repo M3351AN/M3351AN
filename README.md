@@ -1,17 +1,13 @@
 ```assembly
 global _start
-
 section .text
-
 _start:
 jmp message
-
 proc:
     ...
 message:
     call proc
     msg db " fku world "
-
 section .data
 ```
 
@@ -31,7 +27,7 @@ section .data
 - 虽然可以但是请温柔一点因为会尿床啊啊啊啊啊啊
 - أخذ 192 طنًا تراكميًا من ديكستروميتورفان
 - J'ai passé ma 16 Saint-Valentin seul
-- 好想做爱好想做爱好想做爱
+- 大脑出了一点小状况需要持续服用甲磺酸溴隐亭不然会发情
 - party.teiku.moe
 - 时间真的好快，legally junana
 
