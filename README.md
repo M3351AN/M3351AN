@@ -20,6 +20,7 @@ end start
 # Teikumo DESU!!
 ### Salut.
 <details> <summary>Teikumoは:</summary>
+
 - proletariat/anarchor/hax/anime lover/IJN lover. 
 - Уг нь би Монголд төрсөн XD
 - 在中国内地学习中,目前广西文科top200 congratulations!
@@ -34,6 +35,7 @@ end start
 - 好想做爱好想做爱好想做爱
 - party.teiku.moe
 - 时间真的好快，legally junana
+
 </details>
 
 ### せんせい~
