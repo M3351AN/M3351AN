@@ -28,8 +28,8 @@ section .data
 - أخذ 192 طنًا تراكميًا من ديكستروميتورفان
 - J'ai passé ma 16 Saint-Valentin seul
 - 大脑出了一点小状况需要持续服用甲磺酸溴隐亭不然会发情
-- party.teiku.moe
-- 老了
+- hvhbbs.com源码区版主
+- 虽然说是开源精神但是莫名其妙去想圈钱
 
 </details>
 
