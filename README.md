@@ -29,7 +29,7 @@ section .data
 - J'ai passé ma 16 Saint-Valentin seul
 - 大脑出了一点小状况需要持续服用甲磺酸溴隐亭不然会发情
 - party.teiku.moe
-- 时间真的好快，legally junana
+- 老了
 
 </details>
 
