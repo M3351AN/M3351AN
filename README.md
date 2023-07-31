@@ -18,7 +18,7 @@ section .data
 
 - proletariat/anarchor/hax/anime lover/IJN lover. 
 - Уг нь би Монголд төрсөн XD
-- 在中国内地学习中,目前广西文科top200 congratulations!
+- 在中国内地学习中,目前广西文科top200 congratulations!(aim 北师大珠海）
 - Би өөрийгөө хэн бэ гэдэгт эргэлзэх хэрэгтэй гэж бодож байна.
 - Quit HVH now.
 - 其实根本放不下副会长，只是在骗自己而已
