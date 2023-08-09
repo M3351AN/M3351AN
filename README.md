@@ -29,7 +29,7 @@ section .data
 - J'ai passé ma 16 Saint-Valentin seul
 - 困倦是甲磺酸溴隐亭的诅咒，而闭上眼就可以暂时逃避这个世界，或许是来自甲磺酸溴隐亭的爱。
 - hvhbbs.com源码区版主
-- 虽然说是开源精神但是莫名其妙去想圈钱
+- 开源精神，永不圈钱
 
 </details>
 
