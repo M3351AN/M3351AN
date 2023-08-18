@@ -71,8 +71,10 @@ Ich liebe Shigure, auch wenn es eine Blaupause ist
 </details>
 <details> <summary>或者，更直接的方式</summary>
 <img src="https://github.com/M3351AN/M3351AN.github.io/raw/main/Alipay.jpg" alt="alipay" height="300" width="200" align=center />
-</details>
 https://paypal.me/zuiun
+</details>
+
+
 ```
 BTC!!
 363Ysccu2suNBpV6SzWsd8GTbFqqg7Wymi
