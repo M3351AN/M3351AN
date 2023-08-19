@@ -31,6 +31,8 @@ section .data
 - hvhbbs.com源码区版主
 - 开源精神，永不圈钱
 
+![GQ6D_PU%%3FY`GK9 7D}0}1](https://github.com/M3351AN/M3351AN/assets/65479796/b1310a54-06ab-4d73-81ee-618be6c978f9)
+
 </details>
 
 ### せんせい~
