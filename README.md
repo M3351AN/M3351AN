@@ -16,9 +16,10 @@ section .data
 ### Salut.
 <details> <summary>Teikumoは:</summary>
 
+- 来自中国的朋友们你们好,目前我没有参与盈利性质软件开发的想法,同时这两到三年的时间大概没有精力完全投入开发,因此请不要联系我定制任何软件
 - proletariat/anarchor/hax/anime lover/IJN lover. 
 - Уг нь би Монголд төрсөн XD
-- 在中国内地学习中,目前广西文科top200 congratulations!(aiming 北师大珠海）
+- 在中国内地学习中,目前广西文科成绩自治区top300+- congratulations!(aiming 广西师范）
 - Би өөрийгөө хэн бэ гэдэгт эргэлзэх хэрэгтэй гэж бодож байна.
 - Quit HVH now.
 - 其实根本放不下副会长，只是在骗自己而已
