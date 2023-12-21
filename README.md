@@ -13,7 +13,6 @@ section .data
 
 
 # Teikumo DESU!!
-- 来自中国的朋友们你们好,目前我没有参与盈利性质软件开发的想法,同时这两到三年的时间大概没有精力完全投入开发,因此请不要联系我定制任何软件
 ### Salut.
 <details> <summary>Teikumoは:</summary>
 
