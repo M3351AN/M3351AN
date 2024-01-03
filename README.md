@@ -16,18 +16,16 @@ section .data
 ### Salut.
 <details> <summary>Teikumoは:</summary>
 
-- proletariat/anarchor/hax/anime lover/IJN lover. 
+- proletariat/hax/anime lover/IJN lover. 
 - Уг нь би Монголд төрсөн XD
 - 在中国内地学习中,目前广西文科成绩自治区top300+- congratulations!(aiming 广西师范）
 - Би өөрийгөө хэн бэ гэдэгт эргэлзэх хэрэгтэй гэж бодож байна.
-- Quit HVH now.
-- 度過漫漫長夜之後，像清晨溫柔的陽光般溫婉美麗而又朝氣蓬勃
+- No cheating
 - ia net ruski!
 - 虽然可以但是请温柔一点因为会尿床啊啊啊啊啊啊
 - أخذت تراكميا t 204 ديكستروميتورفان
 - J'ai passé ma 16 Saint-Valentin seul
-- 困倦是甲磺酸溴隐亭的诅咒，而闭上眼就可以暂时逃避这个世界，或许是来自甲磺酸溴隐亭的爱。
-- hvhbbs.com源码区版主
+- hvhbbs.com御用paster
 - 悄悄学习一下Android开发
 
 ![GQ6D_PU%%3FY`GK9 7D}0}1](https://github.com/M3351AN/M3351AN/assets/65479796/b1310a54-06ab-4d73-81ee-618be6c978f9)
