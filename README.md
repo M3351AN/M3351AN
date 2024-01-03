@@ -4,7 +4,7 @@ section .text
 _start:
 jmp message
 proc:
-    ...
+    ...(Too lazy2code these ass.)
 message:
     call proc
     msg db " fku world "
