@@ -27,12 +27,12 @@ section .data
 - hvhbbs.com御用paster
 - 悄悄学习一下Android开发
 - 如你所见我有许多业余爱好项目，这些项目的本质如此也应该被如此看待。但是这些项目仅用于学习目的，但我承认这些项目可能被用于恶意目的，例如在游戏中获得不公平的优势。我绝不容忍电子游戏作弊行为。如果您使用这些项目进行作弊，请考虑阅读以下内容。
+<details> <summary>一些忠告</summary>
+- 电子游戏中的作弊往往源于更深层次的心理需求，例如低自尊和控制欲。如果您发现自己在作弊，那么值得花点时间思考一下原因。
 
-电子游戏中的作弊往往源于更深层次的心理需求，例如低自尊和控制欲。如果您发现自己在作弊，那么值得花点时间思考一下原因。
+- 作弊可以提供暂时的控制感和成就感，但最终会损害你真正的自我价值。真正的满足来自于通过诚实的努力克服挑战和发展技能。
 
-作弊可以提供暂时的控制感和成就感，但最终会损害你真正的自我价值。真正的满足来自于通过诚实的努力克服挑战和发展技能。
-
-克服作弊习惯可能需要解决潜在的心理问题。与治疗师或辅导员交谈可以帮助您建立更健康的应对机制并培养更积极的游戏体验。
+- 克服作弊习惯可能需要解决潜在的心理问题。与治疗师或辅导员交谈可以帮助您建立更健康的应对机制并培养更积极的游戏体验。</details>
 
 ![GQ6D_PU%%3FY`GK9 7D}0}1](https://github.com/M3351AN/M3351AN/assets/65479796/b1310a54-06ab-4d73-81ee-618be6c978f9)
 
@@ -88,12 +88,6 @@ BTC!!
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=M3351AN&theme=tokyonight&show_icons=true)](https://github.com/M3351AN)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=M3351AN&layout=compact)](https://github.com/M3351AN)
-
-```cpp
-
-for (int k=2011378; k>0; k>>=2)
-    System.out.print((char) (110 + Math.pow(2,2*(((k^1)-1)>>21 + 1) + (k&3)) - ((k&8192)/8192 + 7.9*(-(k^1964)>>21) - .1*(-((k&35)^35)>>21) + .3*(-((k&120)^120)>>21) + (-((k|7)^7)>>21) + 9.1)*10));
-```
 <a href="https://info.flagcounter.com/LT1t"><img src="https://s11.flagcounter.com/map/LT1t/size_t/txt_7C1DCF/border_0F0F0F/pageviews_1/viewers_Luv/flags_0/" alt="Flag Counter" border="0"></a>
 <p>
 <details> <summary>
