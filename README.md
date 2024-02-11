@@ -37,6 +37,9 @@ section .data
 
 ![GQ6D_PU%%3FY`GK9 7D}0}1](https://github.com/M3351AN/M3351AN/assets/65479796/b1310a54-06ab-4d73-81ee-618be6c978f9)
 
+![FRHIhauVEAAcb9E](https://github.com/M3351AN/M3351AN/assets/65479796/fa5f6904-0cd5-483d-a4bb-1bde6cbdb820)
+
+
 </details>
 
 
@@ -53,7 +56,6 @@ section .data
     
 - 亦取停云月落海枯石烂之意[Eternity] desu
 <img src="https://github.com/M3351AN/db/raw/main/DSC05356.JPG" alt="SHIGURE!!" height="255" width="350" align=center />
-Ich liebe Shigure, auch wenn es eine Blaupause ist
 
 </details>
 
@@ -79,6 +81,9 @@ Ich liebe Shigure, auch wenn es eine Blaupause ist
 <details> <summary>或者，更直接的方式</summary>
 <img src="https://github.com/M3351AN/M3351AN.github.io/raw/main/Alipay.jpg" alt="alipay" height="300" width="200" align=center />
 https://paypal.me/zuiun
+
+- 球球各位大手子不要盒我
+
 </details>
 
 
