@@ -80,9 +80,9 @@ section .data
 </details>
 <details> <summary>或者，更直接的方式</summary>
 <img src="https://github.com/M3351AN/M3351AN.github.io/raw/main/Alipay.jpg" alt="alipay" height="300" width="200" align=center />
-https://paypal.me/zuiun
+ <!--https://paypal.me/zuiun-->
 
-- 球球各位大手子不要盒我
+ <!-- 球球各位大手子不要盒我-->
 
 </details>
 
