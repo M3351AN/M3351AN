@@ -35,6 +35,7 @@ section .data
 
 - 克服作弊习惯可能需要解决潜在的心理问题。与治疗师或辅导员交谈可以帮助您建立更健康的应对机制并培养更积极的游戏体验。</details>
 
+- That's like accusing woodsman of a murder that didn't happen, because he owns axe. --ekknod
 ![GQ6D_PU%%3FY`GK9 7D}0}1](https://github.com/M3351AN/M3351AN/assets/65479796/b1310a54-06ab-4d73-81ee-618be6c978f9)
 
 ![FRHIhauVEAAcb9E](https://github.com/M3351AN/M3351AN/assets/65479796/fa5f6904-0cd5-483d-a4bb-1bde6cbdb820)
