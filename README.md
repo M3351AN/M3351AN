@@ -1,4 +1,4 @@
-```assembly
+<!-- ```assembly
 global _start
 section .text
 _start:
@@ -9,7 +9,7 @@ message:
     call proc
     msg db " fku world "
 section .data
-```
+```-->
 
 # Teikumo DESU!!
 ### Salut.
