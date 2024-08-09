@@ -17,15 +17,13 @@ section .data
 
 - proletariat/hax/anime lover/IJN lover. 
 - Уг нь би Монголд төрсөн XD
-- 在中国内地学习中,目前广西文科成绩自治区top300+- congratulations!(aiming 广西师范）
 - Би өөрийгөө хэн бэ гэдэгт эргэлзэх хэрэгтэй гэж бодож байна.
 - No cheating
 - ia net ruski!
-- 虽然可以但是请温柔一点因为会尿床啊啊啊啊啊啊
 - أخذت تراكميا t 204 ديكستروميتورفان
 - J'ai passé ma 17 Saint-Valentin seul
 - hvhbbs.com御用paster
-- 悄悄学习一下Android开发
+- ~~悄悄学习一下Android开发~~ 不学了
 - 如你所见我有许多业余爱好项目，这些项目的本质如此也应该被如此看待。但是这些项目仅用于学习目的，但我承认这些项目可能被用于恶意目的，例如在游戏中获得不公平的优势。我绝不容忍电子游戏作弊行为。如果您使用这些项目进行作弊，请考虑阅读以下内容。
 <details> <summary>一些忠告</summary>
     
