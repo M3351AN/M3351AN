@@ -140,6 +140,7 @@ TN32iNnsDsRvbbvLLsEkcnj5oLvjcsPjCE
 
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=M3351AN&theme=tokyonight&show_icons=true)](https://github.com/M3351AN)
+<img src="https://github-profile-trophy.vercel.app/?username=M3351AN" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=M3351AN&layout=compact)](https://github.com/M3351AN)
 <a href="https://info.flagcounter.com/LT1t"><img src="https://s11.flagcounter.com/map/LT1t/size_t/txt_7C1DCF/border_0F0F0F/pageviews_1/viewers_Luv/flags_0/" alt="Flag Counter" border="0"></a>
 <p>
