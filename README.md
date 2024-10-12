@@ -11,6 +11,8 @@ message:
 section .data
 ```-->
 
+Unless otherwise noted, all content published by me is subject to the [MIT License Kai IV](https://github.com/M3351AN/M3351AN/blob/main/LICENSE)
+
 # Teikumo DESU!!
 ### Salut.
 <details> <summary>Teikumoは:</summary>
