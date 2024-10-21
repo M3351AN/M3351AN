@@ -133,11 +133,11 @@ Unless otherwise noted, all content published by me is subject to the [TOSSUCU L
 
 ```
 BTC!!
-15NL41TFWdaodLuN8r95GZq4zkprzkwoCC
+363Ysccu2suNBpV6SzWsd8GTbFqqg7Wymi
 ```
 ```
 USDT TRC-20
-TN32iNnsDsRvbbvLLsEkcnj5oLvjcsPjCE
+TUNLGYTbkUTkpX5z98nouHAwnuouYoV1Ct
 ```
 
 
