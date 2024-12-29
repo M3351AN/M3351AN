@@ -18,7 +18,6 @@ Unless otherwise noted, all content published by me is subject to the [TOSSUCU L
 <details> <summary>Teikumoは:</summary>
 
 - proletariat/hax/anime lover/IJN lover. 
-- Уг нь би Монголд төрсөн XD
 - Би өөрийгөө хэн бэ гэдэгт эргэлзэх хэрэгтэй гэж бодож байна.
 - No cheating
 - ia net ruski!
