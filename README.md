@@ -15,6 +15,13 @@ Unless otherwise noted, all content published by me is subject to the [TOSSUCU L
 
 # Teikumo DESU!!
 
+```shittalk
+再帮我转一下 直接转吧 
+
+@uwukia 7182458117 和 @Uaena9240 6234469461 
+
+你们应该在加入的玩机相关群直接说出动机和向所有人道歉
+```
 ![image](https://github.com/user-attachments/assets/5afc43fe-0c98-40ad-a5cb-2e72bd5eecc2)
 
 ### Salut.
