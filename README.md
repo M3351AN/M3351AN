@@ -14,6 +14,9 @@ section .data
 Unless otherwise noted, all content published by me is subject to the [TOSSUCU License](https://github.com/M3351AN/M3351AN/blob/main/TOSSUCU.txt)
 
 # Teikumo DESU!!
+
+![image](https://github.com/user-attachments/assets/5afc43fe-0c98-40ad-a5cb-2e72bd5eecc2)
+
 ### Salut.
 <details> <summary>Teikumoは:</summary>
 
