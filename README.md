@@ -35,6 +35,7 @@ Unless otherwise noted, all content published by me is subject to the [TOSSUCU L
 - J'ai passé ma 17 Saint-Valentin seul
 - hvhbbs.com御用paster
 - ~~悄悄学习一下Android开发~~ 不学了
+- 目前还没有取得任何历史学学士/硕士/博士学位，因此在背后黑屁我写我的岁月史书的时候不必收敛
 - Hate complex stuff
 - 如你所见我有许多业余爱好项目，这些项目的本质如此也应该被如此看待。但是这些项目仅用于学习目的，但我承认这些项目可能被用于恶意目的，例如在游戏中获得不公平的优势。我绝不容忍电子游戏作弊行为。如果您使用这些项目进行作弊，请考虑阅读以下内容。
 <details> <summary>一些忠告</summary>
