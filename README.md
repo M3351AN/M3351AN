@@ -57,7 +57,7 @@ Unless otherwise noted, all content published by me is subject to the [TOSSUCU L
 </details>
 
 
-### Namai??
+### Namae??
 <details> <summary>it's...</summary>
 
 - 渟Teiは:[(of water)stagnate]
