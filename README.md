@@ -68,6 +68,8 @@ Unless otherwise noted, all content published by me is subject to the [TOSSUCU L
 【說文】山川气也。从雨云，象雲回轉形。【廣韻】河圖曰：雲者，天地之本。【元命包】隂陽聚爲雲。【易·乾卦】雲行雨施。
 - 渟雲Teikumoは:心如止水，行随风动。The heart is like still water, and the action moves with the wind.
 
+- 重箱読み
+
 - 扶輿磅礴天兩目，渟蓄雲氣藏風霆 --次韻子有賦著圖書所
 
 - 亦取停云落月之意
