@@ -31,9 +31,9 @@ Unless otherwise noted, all content published by me is subject to the [TOSSUCU L
 - Би өөрийгөө хэн бэ гэдэгт эргэлзэх хэрэгтэй гэж бодож байна.
 - No cheating
 - ia net ruski!
-- أخذت تراكميا t 204 ديكستروميتورفان
+- 常驻两广之间，大概率可在K950硬座车厢上见到我
 - J'ai passé ma 17 Saint-Valentin seul
-- hvhbbs.com御用paster
+- 已经死亡的hvhbbs.com御用paster
 - ~~悄悄学习一下Android开发~~ 不学了
 - 目前还没有取得任何历史学学士/硕士/博士学位，因此在背后黑屁我写我的岁月史书的时候不必收敛
 - Hate complex stuff
