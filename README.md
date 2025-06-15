@@ -14,7 +14,7 @@ section .data
 Unless otherwise noted, all content published by me is subject to the [TOSSUCU License](https://github.com/M3351AN/M3351AN/blob/main/TOSSUCU.txt)
 
 # Teikumo DESU!!
-
+<!--
 ```shittalk
 再帮我转一下 直接转吧 
 
@@ -23,7 +23,7 @@ Unless otherwise noted, all content published by me is subject to the [TOSSUCU L
 你们应该在加入的玩机相关群直接说出动机和向所有人道歉
 ```
 ![image](https://github.com/user-attachments/assets/5afc43fe-0c98-40ad-a5cb-2e72bd5eecc2)
-
+-->
 ### Salut.
 <details> <summary>Teikumoは:</summary>
 
