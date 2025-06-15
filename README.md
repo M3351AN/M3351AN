@@ -135,9 +135,10 @@ Unless otherwise noted, all content published by me is subject to the [TOSSUCU L
 <details> <summary>免费支持我</summary>
 <img src="https://github.com/M3351AN/M3351AN.github.io/raw/main/Lucky.jpg" alt="lucky" height="300" width="200" align=center />
 </details>
-<details> <summary>或者，更直接的方式</summary>
+<details> <summary>Or...Straight to the point</summary>
 <img src="https://github.com/M3351AN/M3351AN.github.io/raw/main/Alipay.jpg" alt="alipay" height="300" width="200" align=center />
- <!--https://paypal.me/zuiun-->
+
+ [paypal.me/zuiun](https://paypal.me/zuiun)
 
  <!-- 球球各位大手子不要盒我-->
 
