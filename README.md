@@ -11,7 +11,7 @@ message:
 section .data
 ```-->
 
-Unless otherwise noted, all content published by me is subject to the [TOSSUCU License](https://github.com/M3351AN/M3351AN/blob/main/TOSSUCU.txt)
+Unless otherwise noted, all content published by me is subject to the [latest version of TOSSUCU License](https://github.com/M3351AN/M3351AN/blob/main/TOSSUCU.txt)
 
 When contacting me, please feel free to use your native language.
 
