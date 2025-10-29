@@ -15,6 +15,13 @@ Unless otherwise noted, all content published by me is subject to the [latest ve
 
 When contacting me, please feel free to use your native language.
 
+<details> <summary>GPG Public</summary>
+    
+    https://cdn.tkm.icu/%E6%B8%9F%E9%9B%B2_0x480438CD_public.asc
+    https://keys.openpgp.org/vks/v1/by-fingerprint/C5358F8D9C5A3CDE18C1B4FB955066D0480438CD
+    
+</details>
+
 # Teikumo DESU!!
 <!--
 ```shittalk
