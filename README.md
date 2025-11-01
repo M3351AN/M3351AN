@@ -22,6 +22,8 @@ When contacting me, please feel free to use your native language.
     
 </details>
 
+请科班出身的不要来我这里找存在感，我不关心你打过几届厕所杯，我是法学生，不是你们所说的“水很深的”计算机相关专业出身。
+
 # Teikumo DESU!!
 <!--
 ```shittalk
