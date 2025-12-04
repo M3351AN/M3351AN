@@ -142,13 +142,9 @@ When contacting me, please feel free to use your native language.
 </details>
 
 
-### Money plz
+### Donate
 
-<details> <summary>免费支持我</summary>
-<img src="https://github.com/M3351AN/M3351AN.github.io/raw/main/Lucky.jpg" alt="lucky" height="300" width="200" align=center />
-</details>
-<details> <summary>Or...Straight to the point</summary>
-<img src="https://github.com/M3351AN/M3351AN.github.io/raw/main/Alipay.jpg" alt="alipay" height="300" width="200" align=center />
+Instead of donating money to me, you should use it for charity first.
 
  [paypal.me/zuiun](https://paypal.me/zuiun)
 
