@@ -146,19 +146,6 @@ When contacting me, please feel free to use your native language.
 
 Instead of donating money to me, you should use it for charity first.
 
- [paypal.me/zuiun](https://paypal.me/zuiun)
-
- <!-- 球球各位大手子不要盒我-->
-
-```
-BTC!!
-363Ysccu2suNBpV6SzWsd8GTbFqqg7Wymi
-```
-```
-USDT TRC-20
-TUNLGYTbkUTkpX5z98nouHAwnuouYoV1Ct
-```
-
 </details>
 
 
