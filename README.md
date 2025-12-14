@@ -22,7 +22,7 @@ When contacting me, please feel free to use your native language.
     
 </details>
 
-请科班出身的不要来我这里找存在感，我不关心你打过几届厕所杯，我是法学生，不是你们所说的“水很深的”计算机相关专业出身。
+我不知道我要做什么，我好像从来没有创造过什么，我所做的一切好像都是在解构什么的过程，但我忘了究竟那是什么，也许我真的只是在Assemble mon destin.，也许是Disassemble？maybe just Dissemble? 忘れてしまうんだ、anyway me quiero
 
 # Teikumo DESU!!
 <!--
