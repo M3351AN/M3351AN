@@ -38,7 +38,7 @@ When contacting me, please feel free to use your native language.
 ### Salut.
 <details> <summary>Teikumoは:</summary>
 
-- proletariat/hax/anime lover/IJN lover. 
+- ~~proletariat/hax/anime lover/IJN lover.~~ Don't label me
 - Би өөрийгөө хэн бэ гэдэгт эргэлзэх хэрэгтэй гэж бодож байна.
 - No cheating
 - ia net ruski!
