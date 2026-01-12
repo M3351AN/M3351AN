@@ -25,16 +25,25 @@ When contacting me, please feel free to use your native language.
 我不知道我要做什么，我好像从来没有创造过什么，我所做的一切好像都是在解构什么的过程，但我忘了究竟那是什么，也许我真的只是在Assemble mon destin.，也许是Disassemble？maybe just Dissemble? 忘れてしまうんだ、anyway me quiero
 
 # Teikumo DESU!!
-<!--
+
 ```shittalk
+
+别把我搞进小圈子了，我又没有手段, 搞不定你们的
+
+<!--
 再帮我转一下 直接转吧 
 
 @uwukia 7182458117 和 @Uaena9240 6234469461 
 
 你们应该在加入的玩机相关群直接说出动机和向所有人道歉
+-->
 ```
+
+<!--
 ![image](https://github.com/user-attachments/assets/5afc43fe-0c98-40ad-a5cb-2e72bd5eecc2)
 -->
+
+
 ### Salut.
 <details> <summary>Teikumoは:</summary>
 
