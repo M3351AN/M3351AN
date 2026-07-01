@@ -12,10 +12,12 @@ section .data
 ```-->
 
 你可以在[我的爱发电主页](https://afdian.com/a/M3351AN)赞助我
+
 赞助将主要用于
-1.对tkm.icu域名进行续费以确保已有的服务能够持续
-2.购买药物以确保我能够持续的维护我的项目
-3.缴纳开发所消耗的电费与网费等
+
+- 对tkm.icu域名进行续费以确保已有的服务能够持续
+- 购买药物以确保我能够持续的维护我的项目
+- 缴纳开发所消耗的电费与网费等
 
 Unless otherwise noted, all content published by me is subject to the [The 3-Clause BSD License](https://opensource.org/license/bsd-3-clause)
 
