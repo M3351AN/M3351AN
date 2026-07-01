@@ -19,7 +19,7 @@ section .data
 - 购买药物以确保我能够持续的维护我的项目
 - 缴纳开发所消耗的电费与网费等
 
-Unless otherwise noted, all content published by me is subject to the [The 3-Clause BSD License](https://opensource.org/license/bsd-3-clause)
+Unless otherwise noted, all content published by me is subject to the [The 3-Clause BSD License](BSD3.txt)
 
 When contacting me, please feel free to use your native language.
 
