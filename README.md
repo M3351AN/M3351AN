@@ -11,7 +11,7 @@ message:
 section .data
 ```-->
 
-Unless otherwise noted, all content published by me is subject to the [The 3-Clause BSD License](BSD3.txt)
+Unless otherwise noted, all content EXCEPT picture and audio, published by me is subject to the [The 3-Clause BSD License](BSD3.txt)
 
 When contacting me, please feel free to use your native language.
 
